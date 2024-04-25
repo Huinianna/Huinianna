@@ -16,3 +16,11 @@ I am a Data Analyst with a passion for transforming raw data into strategic insi
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                     </p>
                     
+  ### Socials
+![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)
+
+[![Twitter](https://img.shields.io/badge/Twitter--blue?style=social&logo=twitter)](https://twitter.com/Ann_ah)
+
+![Discord](https://img.shields.io/badge/Discord--blue?style=social&logo=discord)
+
+                    
