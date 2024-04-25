@@ -10,7 +10,8 @@ I am a Data Analyst with a passion for transforming raw data into strategic insi
 *   ✉️  You can contact me at [hannanna238@gmail.com](mailto:hannanna238@gmail.com)
 *   🧠  I'm learning Data Analytics with Python
 *   🤝  I'm open to collaborating on any data analysis projects
-*   ⚡  I am a Fintech enthusiast### Skills 
+*   ⚡  I am a Fintech enthusiast
+*   ### Skills 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
                     </p>
